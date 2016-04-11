@@ -4,8 +4,4 @@ Little web app that quizzes you on the location of US states. Press start and ke
 
 demo: chrislloyd.me/states
 
-TODO:
-    add styling
-    timer
-    keep track of right/wrong
-    different quiz modes
+TODO: styling, timer, keep track of right/wrong, different quiz modes
